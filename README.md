@@ -112,4 +112,4 @@ All ohter IPs will be separte. When installing Filebeat, during editing only ent
 the ELK Stack server.
 
 - Which URL do you navigate to in order to check that the ELK server is running?
-http://[your.ELK-VM.External.IP]:5601/app/kibana
+http://10.1.0.4:5601/app/kibana
