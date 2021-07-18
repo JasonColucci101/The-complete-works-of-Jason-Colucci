@@ -4,7 +4,7 @@ All of my things in one location
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![Cloud Network](https://app.diagrams.net/#G1Pzhgm-D0GZ1-gyNANq60837ED6lwbxs5)
 
 These files have been tested and used to generate a live ELK deployment on Azure. 
 They can be used to either recreate the entire deployment pictured above. 
