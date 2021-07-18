@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![Cloud Network](https://github.com/JasonColucci101/The-complete-works-of-Jason-Colucci/blob/main/Images/Cloud%20Network.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. 
 They can be used to either recreate the entire deployment pictured above. 
